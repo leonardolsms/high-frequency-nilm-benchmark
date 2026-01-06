@@ -1,5 +1,4 @@
-# A Reproducible Comparison of Classical and Deep Learning Models for
-High-Frequency NILM Using Harmonic Features
+# A Reproducible Comparison of Classical and Deep Learning Models for High-Frequency NILM Using Harmonic Features
 
 This repository provides the full experimental framework, code, and results
 associated with the paper:
